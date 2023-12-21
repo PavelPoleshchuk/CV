@@ -1,1 +1,1 @@
-https://pavelpoleshchuk.github.io/CV/
+https://pavelpoleshchuk.github.io/CV/cv
