@@ -15,16 +15,23 @@ Since March 2022, I quit my job and started my studies at RSS school(https://rs.
 - December-February 2023 - finished RS SHCOOL JS/FE Stage 2 2022Q3 My rating is 475 out of 1270 Certificate: https://app.rs.school/certificate/vyodupm5
 - March-May 2023 - completed RS SHCOOL React Course
 
+# Work experience:
+- November 2023-Now - work on a project in company Antipoff
+
 # Skills:
-- JavaScript, TypeScript, Next.js, HTML, CSS, Sass, Git, React, React Native, Redux Toolkit, React Hook Form, Fetch, Rest API, Promise, Figma, Vite, VSCode, Webpack, Json
+- JavaScript, TypeScript, Next.js, HTML, CSS, Tailwind, Styled Components, Material UI, Sass, ChatGPT, Git, React, React Native, React Hook Form, React-dnd, Tanstack/react-query, Redux Toolkit, Zustand, Fetch, Rest API, Promise, Figma, Vite, VSCode, Webpack, Json, Zod, Radix, Tanstack/react-table
 
 # Pet projects:
--	Simple application with form (React, TS, Routing, Redux, Fetch, SASS, Token key, Pagination) 
+- Simple site (React, TS, Routing, react-hook-form, ZOD, radix-ui, ag-grid-react)  
+Deploy - https://661d6834ca264a086903b1b8--marvelous-cajeta-90cacf.netlify.app/ 
+Git: https://github.com/PavelPoleshchuk/Test_project__ultrafasad
+- Simple application with form (React, TS, Routing, Redux, Fetch, SASS, Token key, Pagination) 
 Deploy -  https://65570dfb495040627b2bfb8d--sweet-axolotl-68e06a.netlify.app/ 
 GIT -https://github.com/PavelPoleshchuk/Test-task-for-the-position-Frontend-developer-/tree/main/test-task-antipoff
--	Chat application (React Native, Expo, TS, Redux, Fetch)
+- Chat application (React Native, Expo, TS, Redux, Fetch)
 GIT - https://github.com/PavelPoleshchuk/pet-project_react-native_chat-app
--	Notes application(React, Routing, TS, LS, Json) Deploy - https://655b201434e07663be2c6c78--heroic-puppy-bdea5a.netlify.app/ GIT - https://github.com/PavelPoleshchuk/pet-project_notes-app
+- Notes application(React, Routing, TS, LS, Json) Deploy - https://655b201434e07663be2c6c78--heroic-puppy-bdea5a.netlify.app/ GIT - https://github.com/PavelPoleshchuk/pet-project_notes-app
+
 
 # My student works:
 - game "fifteen" - https://rolling-scopes-school.github.io/pavelpoleshchuk-JSFE2022Q3/gem-puzzle/
