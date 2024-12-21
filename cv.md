@@ -16,7 +16,7 @@ Since March 2022, I quit my job and started my studies at RSS school(https://rs.
 - March-May 2023 - completed RS SHCOOL React Course
 
 # Work experience:
-- November 2023-Now - work on a project in company Antipoff
+- November 2023-November 2024 - work on a project in company Antipoff
 
 # Skills:
 - JavaScript, TypeScript, Next.js, HTML, CSS, Tailwind, Styled Components, Material UI, Sass, ChatGPT, Git, React, React Native, React Hook Form, React-dnd, Tanstack/react-query, Redux Toolkit, Zustand, Fetch, Rest API, Promise, Figma, Vite, VSCode, Webpack, Json, Zod, Radix, Tanstack/react-table
